@@ -1,1 +1,1 @@
-# bac-s-git-study
+# bacs-git-study
